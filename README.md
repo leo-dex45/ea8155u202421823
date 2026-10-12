@@ -2,7 +2,7 @@
 
 ## Overview
 
-Paws & Claws is a Vue 3 + Vite application designed to help users find and adopt pets in need of a loving home. The application provides a user-friendly interface for browsing available pets, viewing detailed information about each pet, and submitting adoption requests.
+Paws & Claws is an application designed to help users find and adopt pets in need of a loving home. The application provides a user-friendly interface for browsing available pets, viewing detailed information about each pet, and submitting adoption requests.
 
 ## Tech Stack
 
