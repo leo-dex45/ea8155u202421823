@@ -1,0 +1,18 @@
+{
+  "option": {
+    "home": "Home"
+  },
+  "home": {
+    "title": "Welcome",
+    "content": "Welcome to Paws & Claws"
+  },
+  "page-not-found": {
+    "title": "Page not Found",
+    "content": "The path {unavailable-route} is not available",
+    "go-home": "Go Home"
+  },
+  "errors": {
+    "occurred": "Errors occured"
+  }
+
+}
