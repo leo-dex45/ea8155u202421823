@@ -1,5 +1,20 @@
-# Vue 3 + Vite
+# ea8155u202421823
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## Overview
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+Paws & Claws is a Vue 3 + Vite application designed to help users find and adopt pets in need of a loving home. The application provides a user-friendly interface for browsing available pets, viewing detailed information about each pet, and submitting adoption requests.
+
+## Tech Stack
+
+- Vue 3
+- Vite
+- Axios
+- router
+- Pinia
+- json-server
+
+
+## Authorship
+This project was created by Leonardo Felix Dextre Flores a student of the UPC 
+
+Github repository URL: https://github.com/leo-dex45/ea8155u202421823.git
