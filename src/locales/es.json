@@ -1,0 +1,17 @@
+{
+  "option": {
+    "home": "Inicio"
+  },
+  "home": {
+    "title": "Bienvenido",
+    "content": "Bienvenido a Paws & Claws"
+  },
+  "page-not-found": {
+    "title": "Pagina no encontrada",
+    "content": "La ruta {unavailable-route} no esta disponible.",
+    "go-home": "Ir al inicio"
+  },
+  "errors": {
+    "occurred": "Ocurrieron errores"
+  }
+}
